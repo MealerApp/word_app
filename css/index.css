@@ -1,68 +1,6 @@
-/*#clock {
-	width: 25.5em;
-	height: 15em;
-	background-color: blue;
-	margin-bottom: 5em;
-}
-#word {
-	width: 80%;
-	height: 10em;
-	background-color: red;
-	margin-bottom: 5em;
-	margin-left: 8em;
-	padding: 15em;
-}
-#word_def {
-	width: 25.5em;
-	height: 15em;
-	background-color: green;
-}
-#scoreboard {
-	width: 25.5em;
-	height: 15em;
-	background-color: black;
-	float: right;
-}
-html {
-	width: 100%;
-	height: 100%;
-}
-#word_score {
-	display: inline;
-}
-.letters {
-	padding: 4em;
-	background-color: green;
-	display: inline;
-	margin-right: .5em;
-}
-/*.letters p {
-	font-size: 5em;
-}
-.word_title {
-	font-size: 3em;
-}
-.score_title {
-	font-size: 3em;
-}
-.clock_title {
-	font-size: 3em;
-}
-#score {
-	float: right;
-}
-.player {
-	display: inline;
-}
-p.player_name {
-	display: block;
-}*/*/
 .clock_title {
 	font-size: 2em;
 }
-/*#clock p {
-	margin-left: 12em;
-}*/
 #clock {
 	width: 25%;
 	background: #D5BB78;
@@ -72,8 +10,6 @@ p.player_name {
 }
 .letters {
 	display: inline;
-/*	margin: 2em 2em 2em 8em;*/
-/*	padding: 4em 3em 4em 3em;*/
 	margin-right: 30px;
 	font-size: 2em;
 	margin-right: 3.5em;
