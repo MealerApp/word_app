@@ -29,10 +29,13 @@
 	display: inline-table;
 	width: 30%;
 	left: 0;
+	background: lightgreen;
 }
 #scoreboard{
+	float: right;
 	display: inline-table;
 	width: 30%;
 	position: relative;
 	right: 0;
+	background: lightblue;
 }
