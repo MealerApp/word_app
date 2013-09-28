@@ -23,7 +23,7 @@
 #bottomContainer{
 	position: absolute;
 	bottom: 0;
-	width:;
+	width: 100%;
 }
 #word_def{
 	display: inline-table;
