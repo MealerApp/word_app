@@ -1,52 +1,38 @@
-.clock_title {
-	font-size: 2em;
+#clock{
+	width: 30%;
+	background: lightgray;
 }
-#clock {
-	width: 25%;
-	background: #D5BB78;
+#word{
+	width: 85%;
+	padding: 2.5%;
+	margin: 0 auto;
 }
-.well {
-	padding: 0px 0px 40px 0px;
+.letter-container{
+	background: red;
+	padding: 20% 0;
 }
-.letters {
+.letters{
+	border: solid white 1px;
+	background: green;
+	padding: 2.5vw 2.5vw;
+	width: 20%;
+	text-align: center;
 	display: inline;
-	margin-right: 30px;
-	font-size: 2em;
-	margin-right: 3.5em;
-	margin-left: 1.5em;
-	padding: 1.5em;
-	background: #FEF8B5;
+	margin: 0 auto;
 }
-#word {
-	padding-bottom: 7.2em;
-	padding-top: 7.2em;
-	width: 80%;
-	margin-left: 10%;
-	background: #D5BB78;
+#bottomContainer{
+	position: absolute;
+	bottom: 0;
+	width:;
 }
-body {
-	background: #FFFF7F;
-}
-.player_name {
-	font-size: 1.6em;
-}
-#score {
-	font-size: 1.2em;
-}
-#word_def {
+#word_def{
 	display: inline-table;
-	width: 25%; 
-	background: #D5BB78;
+	width: 30%;
+	left: 0;
 }
-#scoreboard {
+#scoreboard{
 	display: inline-table;
-	width: 25%;
-	float: right;
-	background: #D5BB78; 
-	height: 182px;
-	padding: 0px;
-}
-#time {
-	font-size: 3.5em;
-	margin-left: 2em;
+	width: 30%;
+	position: relative;
+	right: 0;
 }
